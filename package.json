@@ -3,9 +3,6 @@
   "description": "control the parrot AR drone using the LOGO programming language",
   "version": "0.0.1",
   "main": "index.js",
-  "bin": {
-    "logodrone": "bin.js"
-  },
   "repository": {
     "type": "git",
     "url": "http://github.com/maxogden/logo-drone.git"
